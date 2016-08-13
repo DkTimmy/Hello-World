@@ -1,2 +1,5 @@
 # Hello-World
-Just another one
+
+Hello!
+
+My name is Timmy and I like learning!
